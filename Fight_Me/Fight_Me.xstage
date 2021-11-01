@@ -281,6 +281,22 @@
     <dwg name="1"/>
    </drawings>
   </element>
+  <element id="57" elementName="2" elementFolder="2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="557"/>
+    <dwg name="556"/>
+    <dwg name="444"/>
+    <dwg name="445"/>
+    <dwg name="333"/>
+    <dwg name="334"/>
+    <dwg name="GRG"/>
+    <dwg name="335"/>
+    <dwg name="3"/>
+    <dwg name="14"/>
+    <dwg name="16"/>
+    <dwg name="15"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -298,37 +314,24 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0ad4fafd01000cb2" nbframes="304" startFrame="1" stopFrame="304">
+  <scene name="Top" id="0ad4fafd01000cb2" nbframes="436" startFrame="1" stopFrame="436">
    <columns>
     <column type="0" name="Tree" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-69" val="1" id="1"/>
      <elementSeq exposures="70-88" val="2" id="1"/>
     </column>
-    <column type="0" name="ATV-0AD4FAFD0100118C" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0AD4FAFD0100118C" display="false" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-69" val="222" id="2"/>
      <elementSeq exposures="70-87" val="223" id="2"/>
-     <elementSeq exposures="88-93" val="6" id="2"/>
-     <elementSeq exposures="94-97" val="9" id="2"/>
-     <elementSeq exposures="98-100" val="11" id="2"/>
-     <elementSeq exposures="101-103" val="7" id="2"/>
-     <elementSeq exposures="104-106" val="10" id="2"/>
-     <elementSeq exposures="107-114" val="888" id="2"/>
-     <elementSeq exposures="115-121" val="777" id="2"/>
-     <elementSeq exposures="122-125" val="666" id="2"/>
-     <elementSeq exposures="126-203" val="555" id="2"/>
-     <elementSeq exposures="251-253" val="557" id="2"/>
-     <elementSeq exposures="254-256" val="556" id="2"/>
-     <elementSeq exposures="257-265" val="444" id="2"/>
-     <elementSeq exposures="266-268" val="445" id="2"/>
-     <elementSeq exposures="269-273" val="333" id="2"/>
-     <elementSeq exposures="274-276" val="334" id="2"/>
-     <elementSeq exposures="277-280" val="GRG" id="2"/>
-     <elementSeq exposures="281-283" val="335" id="2"/>
-     <elementSeq exposures="284-287" val="3" id="2"/>
-     <elementSeq exposures="288-293" val="14" id="2"/>
-     <elementSeq exposures="294-296" val="16" id="2"/>
-     <elementSeq exposures="297-303" val="15" id="2"/>
-     <heldSeq exposures="308-309"/>
+     <elementSeq exposures="88-147" val="6" id="2"/>
+     <elementSeq exposures="148-151" val="9" id="2"/>
+     <elementSeq exposures="152-154" val="11" id="2"/>
+     <elementSeq exposures="155-157" val="7" id="2"/>
+     <elementSeq exposures="158-160" val="10" id="2"/>
+     <elementSeq exposures="161-303" val="888" id="2"/>
+     <elementSeq exposures="304-362" val="777" id="2"/>
+     <elementSeq exposures="363-376" val="666" id="2"/>
+     <elementSeq exposures="377-436" val="555" id="2"/>
     </column>
     <column type="0" name="ATV-0AD4FB114EDCC51F" displayOrder="0" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-69" val="1" id="3"/>
@@ -497,14 +500,143 @@
      <soundSequence startFrame="1" stopFrame="91" name="Orpheus Odyssey - Legends on Strings.mp3" id="0ad7827e087e2ef7" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="2" clippingTimeStop="2055.10888671875">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="171" stopFrame="333" name="Orpheus Odyssey - Legends on Strings.mp3" id="0ad7827e087f1184" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5.8333330154418945" clippingTimeStop="2055.10888671875">
+     <soundSequence startFrame="231" stopFrame="364" name="Orpheus Odyssey - Legends on Strings.mp3" id="0ad859046d010f61" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5.8333330154418945" clippingTimeStop="2055.10888671875">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="383" stopFrame="49324" name="Orpheus Odyssey - Legends on Strings.mp3" id="0ad7827e087f1185" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="15.875" clippingTimeStop="2055.10888671875">
+     <soundSequence startFrame="694" stopFrame="49324" name="Orpheus Odyssey - Legends on Strings.mp3" id="0ad859046d017736" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="28.833333969116211" clippingTimeStop="2055.10888671875">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
-    <column type="1" name="Sound_1" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false"/>
+    <column type="1" name="Phobe_Call" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="24" stopFrame="25" name="Phobe_Call.mp3" id="0ad859046d00ad14" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.875" clippingTimeStop="0.92843538522720337">
+      <lipSync showSoundForm="0">
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+      </lipSync>
+     </soundSequence>
+     <soundSequence startFrame="81" stopFrame="101" name="Phobe_Call.mp3" id="0ad859046d00ad31" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="0.92843538522720337">
+      <lipSync showSoundForm="0">
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+      </lipSync>
+     </soundSequence>
+    </column>
+    <column type="1" name="DeerBoi_YesMaam" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="44" stopFrame="49" name="DeerBoi_YesMaam.mp3" id="0ad859046d00bab1" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="1.2916666269302368" clippingTimeStop="1.503129243850708">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="90" stopFrame="97" name="DeerBoi_YesMaam.mp3" id="0ad859046d00bcbe" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.083333335816860199" clippingTimeStop="1.503129243850708">
+      <lipSync showSoundForm="0">
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+      </lipSync>
+     </soundSequence>
+     <soundSequence startFrame="196" stopFrame="216" name="DeerBoi_YesMaam.mp3" id="0ad859046d00e034" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.4166666567325592" clippingTimeStop="1.503129243850708">
+      <lipSync showSoundForm="0">
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+      </lipSync>
+     </soundSequence>
+     <soundSequence startFrame="365" stopFrame="367" name="DeerBoi_Yelp.mp3" id="0ad859046d021e31" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="0.95455783605575562">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="368" stopFrame="377" name="DeerBoi_Yelp.mp3" id="0ad859046d023ef6" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.4166666567325592" clippingTimeStop="0.95455783605575562">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="385" stopFrame="388" name="DeerBoi_Yelp.mp3" id="0ad859046d023ef5" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.83333331346511841" clippingTimeStop="0.95455783605575562">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
+    <column type="1" name="Penny_KeepPlaying" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="88" stopFrame="112" name="Penny-Keep Playing.mp3" id="0ad859046d00ddf6" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.54166668653488159" clippingTimeStop="5.0557823181152344">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="126" stopFrame="185" name="Penny-Keep Playing.mp3" id="0ad859046d00dee2" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="1.5833333730697632" clippingTimeStop="5.0557823181152344">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="192" stopFrame="215" name="Penny-Keep Playing.mp3" id="0ad859046d00dee1" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="4.0833334922790527" clippingTimeStop="5.0557823181152344">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="368" stopFrame="377" name="Penny_Gasp.mp3" id="0ad859046d023efa" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.125" clippingTimeStop="0.98068028688430786">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="385" stopFrame="395" name="Penny_Gasp.mp3" id="0ad859046d023ef9" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.54166668653488159" clippingTimeStop="0.98068028688430786">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
+    <column type="1" name="OffTune1" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="363" stopFrame="369" name="Harp_offTune1.mp3" id="0ad859046d017b4d" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="0.28734692931175232">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
+    <column type="1" name="OffTune2" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="368" stopFrame="373" name="Harp_OffTune2.mp3" id="0ad859046d017dd5" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="0.22312925755977631">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
+    <column type="0" name="ATV-0AD859046D01A2E7" display="false" displayOrder="0" width="100" anonymous="true" id="57">
+     <elementSeq exposures="458-460" val="557" id="57"/>
+     <elementSeq exposures="461-463" val="556" id="57"/>
+     <elementSeq exposures="464-472" val="444" id="57"/>
+     <elementSeq exposures="473-475" val="445" id="57"/>
+     <elementSeq exposures="476-480" val="333" id="57"/>
+     <elementSeq exposures="481-483" val="334" id="57"/>
+     <elementSeq exposures="484-487" val="GRG" id="57"/>
+     <elementSeq exposures="488-490" val="335" id="57"/>
+     <elementSeq exposures="491-494" val="3" id="57"/>
+     <elementSeq exposures="495-500" val="14" id="57"/>
+     <elementSeq exposures="501-503" val="16" id="57"/>
+     <elementSeq exposures="504-510" val="15" id="57"/>
+    </column>
+    <column type="1" name="Chunkl" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="359" stopFrame="373" name="Tree.mp3" id="0ad859046d0232fd" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="0.58893424272537231">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -514,7 +646,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-251,0,43" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-258,0,44" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -533,13 +665,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,44" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,45" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,45" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,46" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -572,7 +704,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerShoulders" pos="0,0,17" publishUnderTab="DeerShoulders">
+     <module type="READ" name="DeerShoulders" pos="0,0,18" publishUnderTab="DeerShoulders">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -684,7 +816,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Tree" pos="-56,-50,46" publishUnderTab="Drawing">
+     <module type="READ" name="Tree" pos="-56,-50,47" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -796,8 +928,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="1" pos="0,0,42" publishUnderTab="1">
+     <module type="READ" name="1" pos="0,0,43" publishUnderTab="1">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -908,7 +1041,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Leaves" pos="0,0,41" publishUnderTab="Leaves">
+     <module type="READ" name="Leaves" pos="0,0,42" publishUnderTab="Leaves">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1020,7 +1153,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="FrontVines" pos="0,0,40" publishUnderTab="FrontVines">
+     <module type="READ" name="FrontVines" pos="0,0,41" publishUnderTab="FrontVines">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1132,7 +1265,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass2" pos="0,0,36" publishUnderTab="Grass2">
+     <module type="READ" name="Grass2" pos="0,0,37" publishUnderTab="Grass2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1244,7 +1377,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="GrassBladesFront" pos="0,0,38" publishUnderTab="GrassBladesFront">
+     <module type="READ" name="GrassBladesFront" pos="0,0,39" publishUnderTab="GrassBladesFront">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1356,7 +1489,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass1" pos="0,0,37" publishUnderTab="Grass1">
+     <module type="READ" name="Grass1" pos="0,0,38" publishUnderTab="Grass1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1468,7 +1601,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyEars" pos="0,0,32" publishUnderTab="PennyEars">
+     <module type="READ" name="PennyEars" pos="0,0,33" publishUnderTab="PennyEars">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1580,7 +1713,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHair" pos="0,0,34" publishUnderTab="PennyHair">
+     <module type="READ" name="PennyHair" pos="0,0,35" publishUnderTab="PennyHair">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1692,7 +1825,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairCurl" pos="0,0,33" publishUnderTab="PennyHairCurl">
+     <module type="READ" name="PennyHairCurl" pos="0,0,34" publishUnderTab="PennyHairCurl">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1804,7 +1937,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Penny_Arms" pos="0,0,27" publishUnderTab="Penny_Arms">
+     <module type="READ" name="Penny_Arms" pos="0,0,28" publishUnderTab="Penny_Arms">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1916,7 +2049,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyTail" pos="0,0,31" publishUnderTab="PennyTail">
+     <module type="READ" name="PennyTail" pos="0,0,32" publishUnderTab="PennyTail">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2028,7 +2161,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyBody" pos="0,0,30" publishUnderTab="PennyBody">
+     <module type="READ" name="PennyBody" pos="0,0,31" publishUnderTab="PennyBody">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2140,7 +2273,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairFront" pos="0,0,23" publishUnderTab="PennyHairFront">
+     <module type="READ" name="PennyHairFront" pos="0,0,24" publishUnderTab="PennyHairFront">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2252,7 +2385,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHands" pos="0,0,29" publishUnderTab="PennyHands">
+     <module type="READ" name="PennyHands" pos="0,0,30" publishUnderTab="PennyHands">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2364,7 +2497,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyMouth" pos="-4,0,28" publishUnderTab="PennyFace">
+     <module type="READ" name="PennyMouth" pos="-4,0,29" publishUnderTab="PennyFace">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2476,7 +2609,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHorns" pos="0,0,26" publishUnderTab="PennyHorns">
+     <module type="READ" name="PennyHorns" pos="0,0,27" publishUnderTab="PennyHorns">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2588,7 +2721,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHead" pos="0,0,25" publishUnderTab="PennyHead">
+     <module type="READ" name="PennyHead" pos="0,0,26" publishUnderTab="PennyHead">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2700,7 +2833,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairBack" pos="0,0,24" publishUnderTab="PennyHairBack">
+     <module type="READ" name="PennyHairBack" pos="0,0,25" publishUnderTab="PennyHairBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2812,7 +2945,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyNose" pos="9,0,22" publishUnderTab="PennyMouth_1">
+     <module type="READ" name="PennyNose" pos="9,0,23" publishUnderTab="PennyMouth_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2924,7 +3057,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyEyes" pos="0,0,21" publishUnderTab="PennyEyes">
+     <module type="READ" name="PennyEyes" pos="0,0,22" publishUnderTab="PennyEyes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3036,7 +3169,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyBrows" pos="0,0,20" publishUnderTab="PennyBrows">
+     <module type="READ" name="PennyBrows" pos="0,0,21" publishUnderTab="PennyBrows">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3148,7 +3281,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerBody" pos="0,0,19" publishUnderTab="DeerBody">
+     <module type="READ" name="DeerBody" pos="0,0,20" publishUnderTab="DeerBody">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3260,7 +3393,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyre" pos="0,0,18" publishUnderTab="DeerLyre">
+     <module type="READ" name="DeerLyre" pos="0,0,19" publishUnderTab="DeerLyre">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3372,7 +3505,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerArm" pos="0,0,16" publishUnderTab="DeerArm">
+     <module type="READ" name="DeerArm" pos="0,0,17" publishUnderTab="DeerArm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3484,7 +3617,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHead" pos="0,0,15" publishUnderTab="DeerHead">
+     <module type="READ" name="DeerHead" pos="0,0,16" publishUnderTab="DeerHead">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3596,7 +3729,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHair" pos="0,0,14" publishUnderTab="DeerHair">
+     <module type="READ" name="DeerHair" pos="0,0,15" publishUnderTab="DeerHair">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3708,7 +3841,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEars" pos="0,0,13" publishUnderTab="DeerEars">
+     <module type="READ" name="DeerEars" pos="0,0,14" publishUnderTab="DeerEars">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3820,7 +3953,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHorns" pos="0,0,12" publishUnderTab="DeerHorns">
+     <module type="READ" name="DeerHorns" pos="0,0,13" publishUnderTab="DeerHorns">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3932,7 +4065,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerMouth" pos="0,0,11" publishUnderTab="DeerMouth">
+     <module type="READ" name="DeerMouth" pos="0,0,12" publishUnderTab="DeerMouth">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4044,7 +4177,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerNose" pos="0,0,10" publishUnderTab="DeerNose">
+     <module type="READ" name="DeerNose" pos="0,0,11" publishUnderTab="DeerNose">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4156,7 +4289,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEyes" pos="0,0,9" publishUnderTab="DeerEyes">
+     <module type="READ" name="DeerEyes" pos="0,0,10" publishUnderTab="DeerEyes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4268,7 +4401,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyreLeaves" pos="0,0,8" publishUnderTab="DeerLyreLeaves">
+     <module type="READ" name="DeerLyreLeaves" pos="0,0,9" publishUnderTab="DeerLyreLeaves">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4380,7 +4513,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyreStrings" pos="0,0,7" publishUnderTab="DeerLyreStrings">
+     <module type="READ" name="DeerLyreStrings" pos="0,0,8" publishUnderTab="DeerLyreStrings">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4492,7 +4625,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHand" pos="0,0,6" publishUnderTab="DeerHand">
+     <module type="READ" name="DeerHand" pos="0,0,7" publishUnderTab="DeerHand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4604,7 +4737,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHairFront" pos="0,0,5" publishUnderTab="DeerHairFront">
+     <module type="READ" name="DeerHairFront" pos="0,0,6" publishUnderTab="DeerHairFront">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4716,7 +4849,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHairBack" pos="0,0,4" publishUnderTab="DeerHairBack">
+     <module type="READ" name="DeerHairBack" pos="0,0,5" publishUnderTab="DeerHairBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4828,7 +4961,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEarBack" pos="0,0,3" publishUnderTab="DeerEarBack">
+     <module type="READ" name="DeerEarBack" pos="0,0,4" publishUnderTab="DeerEarBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4940,7 +5073,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerBrows" pos="0,0,2" publishUnderTab="DeerBrows">
+     <module type="READ" name="DeerBrows" pos="0,0,3" publishUnderTab="DeerBrows">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5052,7 +5185,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="BackVines" pos="0,0,39" publishUnderTab="BackVines">
+     <module type="READ" name="BackVines" pos="0,0,40" publishUnderTab="BackVines">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5164,7 +5297,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass3" pos="0,0,35" publishUnderTab="Grass3">
+     <module type="READ" name="Grass3" pos="0,0,36" publishUnderTab="Grass3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5276,7 +5409,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sky" pos="0,0,1" publishUnderTab="Sky">
+     <module type="READ" name="Sky" pos="0,0,2" publishUnderTab="Sky">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5388,53 +5521,167 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="READ" name="2" pos="0,0,1" publishUnderTab="2">
+      <options>
+       <disabled val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD859046D01A2E7">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="DeerShoulders" in="Composite" inport="20"/>
-     <link out="Tree" in="Composite" inport="19"/>
-     <link out="1" in="Composite" inport="0"/>
-     <link out="Leaves" in="Composite" inport="39"/>
-     <link out="FrontVines" in="Composite" inport="38"/>
-     <link out="Grass2" in="Composite" inport="40"/>
-     <link out="GrassBladesFront" in="Composite" inport="42"/>
-     <link out="Grass1" in="Composite" inport="41"/>
-     <link out="PennyEars" in="Composite" inport="6"/>
-     <link out="PennyHair" in="Composite" inport="5"/>
-     <link out="PennyHairCurl" in="Composite" inport="8"/>
-     <link out="Penny_Arms" in="Composite" inport="10"/>
-     <link out="PennyTail" in="Composite" inport="9"/>
-     <link out="PennyBody" in="Composite" inport="11"/>
-     <link out="PennyHairFront" in="Composite" inport="14"/>
-     <link out="PennyHands" in="Composite" inport="13"/>
-     <link out="PennyMouth" in="Composite" inport="15"/>
-     <link out="PennyHorns" in="Composite" inport="4"/>
-     <link out="PennyHead" in="Composite" inport="12"/>
-     <link out="PennyHairBack" in="Composite" inport="7"/>
-     <link out="PennyNose" in="Composite" inport="16"/>
-     <link out="PennyEyes" in="Composite" inport="17"/>
-     <link out="PennyBrows" in="Composite" inport="18"/>
-     <link out="DeerBody" in="Composite" inport="21"/>
-     <link out="DeerLyre" in="Composite" inport="22"/>
-     <link out="DeerArm" in="Composite" inport="25"/>
-     <link out="DeerHead" in="Composite" inport="28"/>
-     <link out="DeerHair" in="Composite" inport="30"/>
-     <link out="DeerEars" in="Composite" inport="31"/>
-     <link out="DeerHorns" in="Composite" inport="33"/>
-     <link out="DeerMouth" in="Composite" inport="34"/>
-     <link out="DeerNose" in="Composite" inport="35"/>
-     <link out="DeerEyes" in="Composite" inport="36"/>
-     <link out="DeerLyreLeaves" in="Composite" inport="24"/>
-     <link out="DeerLyreStrings" in="Composite" inport="23"/>
-     <link out="DeerHand" in="Composite" inport="26"/>
-     <link out="DeerHairFront" in="Composite" inport="32"/>
-     <link out="DeerHairBack" in="Composite" inport="27"/>
-     <link out="DeerEarBack" in="Composite" inport="29"/>
-     <link out="DeerBrows" in="Composite" inport="37"/>
-     <link out="BackVines" in="Composite" inport="3"/>
-     <link out="Grass3" in="Composite" inport="2"/>
-     <link out="Sky" in="Composite" inport="1"/>
+     <link out="DeerShoulders" in="Composite" inport="21"/>
+     <link out="Tree" in="Composite" inport="20"/>
+     <link out="1" in="Composite" inport="1"/>
+     <link out="Leaves" in="Composite" inport="40"/>
+     <link out="FrontVines" in="Composite" inport="39"/>
+     <link out="Grass2" in="Composite" inport="41"/>
+     <link out="GrassBladesFront" in="Composite" inport="43"/>
+     <link out="Grass1" in="Composite" inport="42"/>
+     <link out="PennyEars" in="Composite" inport="7"/>
+     <link out="PennyHair" in="Composite" inport="6"/>
+     <link out="PennyHairCurl" in="Composite" inport="9"/>
+     <link out="Penny_Arms" in="Composite" inport="11"/>
+     <link out="PennyTail" in="Composite" inport="10"/>
+     <link out="PennyBody" in="Composite" inport="12"/>
+     <link out="PennyHairFront" in="Composite" inport="15"/>
+     <link out="PennyHands" in="Composite" inport="14"/>
+     <link out="PennyMouth" in="Composite" inport="16"/>
+     <link out="PennyHorns" in="Composite" inport="5"/>
+     <link out="PennyHead" in="Composite" inport="13"/>
+     <link out="PennyHairBack" in="Composite" inport="8"/>
+     <link out="PennyNose" in="Composite" inport="17"/>
+     <link out="PennyEyes" in="Composite" inport="18"/>
+     <link out="PennyBrows" in="Composite" inport="19"/>
+     <link out="DeerBody" in="Composite" inport="22"/>
+     <link out="DeerLyre" in="Composite" inport="23"/>
+     <link out="DeerArm" in="Composite" inport="26"/>
+     <link out="DeerHead" in="Composite" inport="29"/>
+     <link out="DeerHair" in="Composite" inport="31"/>
+     <link out="DeerEars" in="Composite" inport="32"/>
+     <link out="DeerHorns" in="Composite" inport="34"/>
+     <link out="DeerMouth" in="Composite" inport="35"/>
+     <link out="DeerNose" in="Composite" inport="36"/>
+     <link out="DeerEyes" in="Composite" inport="37"/>
+     <link out="DeerLyreLeaves" in="Composite" inport="25"/>
+     <link out="DeerLyreStrings" in="Composite" inport="24"/>
+     <link out="DeerHand" in="Composite" inport="27"/>
+     <link out="DeerHairFront" in="Composite" inport="33"/>
+     <link out="DeerHairBack" in="Composite" inport="28"/>
+     <link out="DeerEarBack" in="Composite" inport="30"/>
+     <link out="DeerBrows" in="Composite" inport="38"/>
+     <link out="BackVines" in="Composite" inport="4"/>
+     <link out="Grass3" in="Composite" inport="3"/>
+     <link out="Sky" in="Composite" inport="2"/>
+     <link out="2" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -5467,8 +5714,13 @@
     </meta>
    </metas>
    <timelineOrderer>
+    <soundLayer soundName="Chunkl" index="6"/>
+    <soundLayer soundName="OffTune1" index="4"/>
+    <soundLayer soundName="Penny_KeepPlaying" index="3"/>
+    <soundLayer soundName="OffTune2" index="5"/>
+    <soundLayer soundName="DeerBoi_YesMaam" index="2"/>
     <soundLayer soundName="Harp_Music1" index="0"/>
-    <soundLayer soundName="Sound_1" index="1"/>
+    <soundLayer soundName="Phobe_Call" index="1"/>
    </timelineOrderer>
   </scene>
  </scenes>

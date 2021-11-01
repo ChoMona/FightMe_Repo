@@ -1,0 +1,8 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Black                      0x0ad4fafd01000cbf   0   0   0 255
+Solid    White                      0x0ad4fafd01000cc1 255 255 255 255
+Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    Grass3                     0x0ad54165b281f98e  78 102  81 255
+Solid    Grass2                     0x0ad542d913a2c702  90 116  73 255
+Solid    Grass1                     0x0ad542d913aa2f36  86 118  68 255
+Solid    "New 23"                   0x0ad54c60174b6896 135  86  51 255

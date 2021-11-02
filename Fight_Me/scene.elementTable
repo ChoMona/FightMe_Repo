@@ -44,4 +44,6 @@
  <element id="44" elementName="DeerBrows" elementFolder="DeerBrows" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="56" elementName="Sky" elementFolder="Sky" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="57" elementName="2" elementFolder="2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="58" elementName="PennyPupils" elementFolder="PennyPupils" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="59" elementName="PennyEyes-Whites" elementFolder="PennyEyes-Whites" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

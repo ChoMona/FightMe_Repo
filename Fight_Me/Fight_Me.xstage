@@ -82,198 +82,246 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="13" elementName="PennyHairCurl" elementFolder="PennyHairCurl" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="14" elementName="PennyEars" elementFolder="PennyEars" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="15" elementName="PennyTail" elementFolder="PennyTail" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="16" elementName="PennyBody" elementFolder="PennyBody" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="17" elementName="PennyHands" elementFolder="PennyHands" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="18" elementName="PennyMouth" elementFolder="PennyMouth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="19" elementName="Penny_Arms" elementFolder="Penny_Arms" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="20" elementName="PennyHorns" elementFolder="PennyHorns" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
    </drawings>
   </element>
   <element id="21" elementName="PennyHead" elementFolder="PennyHead" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="22" elementName="PennyHairBack" elementFolder="PennyHairBack" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="23" elementName="PennyHairFront" elementFolder="PennyHairFront" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="24" elementName="PennyNose" elementFolder="PennyNose" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="25" elementName="PennyEyes" elementFolder="PennyEyes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
   <element id="26" elementName="PennyBrows" elementFolder="PennyBrows" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="27" elementName="DeerBody" elementFolder="DeerBody" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="28" elementName="DeerLyre" elementFolder="DeerLyre" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="29" elementName="DeerShoulders" elementFolder="DeerShoulders" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="30" elementName="DeerArm" elementFolder="DeerArm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="31" elementName="DeerHead" elementFolder="DeerHead" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="32" elementName="DeerHair" elementFolder="DeerHair" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="33" elementName="DeerEars" elementFolder="DeerEars" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="34" elementName="DeerHorns" elementFolder="DeerHorns" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="35" elementName="DeerMouth" elementFolder="DeerMouth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="36" elementName="DeerNose" elementFolder="DeerNose" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="37" elementName="DeerEyes" elementFolder="DeerEyes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="38" elementName="DeerLyreLeaves" elementFolder="DeerLyreLeaves" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="39" elementName="DeerLyreStrings" elementFolder="DeerLyreStrings" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="40" elementName="DeerHand" elementFolder="DeerHand" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="41" elementName="DeerHairFront" elementFolder="DeerHairFront" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="42" elementName="DeerHairBack" elementFolder="DeerHairBack" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="43" elementName="DeerEarBack" elementFolder="DeerEarBack" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="44" elementName="DeerBrows" elementFolder="DeerBrows" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="56" elementName="Sky" elementFolder="Sky" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -297,6 +345,13 @@
     <dwg name="15"/>
    </drawings>
   </element>
+  <element id="58" elementName="PennyPupils" elementFolder="PennyPupils" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+   </drawings>
+  </element>
+  <element id="59" elementName="PennyEyes-Whites" elementFolder="PennyEyes-Whites" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -314,13 +369,13 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0ad4fafd01000cb2" nbframes="436" startFrame="1" stopFrame="436">
+  <scene name="Top" id="0ad4fafd01000cb2" nbframes="429" startFrame="1" stopFrame="429">
    <columns>
-    <column type="0" name="Tree" displayOrder="0" width="100" anonymous="true" id="1">
+    <column type="0" name="Tree" display="false" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-69" val="1" id="1"/>
-     <elementSeq exposures="70-88" val="2" id="1"/>
+     <elementSeq exposures="70-175" val="2" id="1"/>
     </column>
-    <column type="0" name="ATV-0AD4FAFD0100118C" display="false" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0AD4FAFD0100118C" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-69" val="222" id="2"/>
      <elementSeq exposures="70-87" val="223" id="2"/>
      <elementSeq exposures="88-147" val="6" id="2"/>
@@ -335,165 +390,209 @@
     </column>
     <column type="0" name="ATV-0AD4FB114EDCC51F" displayOrder="0" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-69" val="1" id="3"/>
-     <elementSeq exposures="70-88" val="2" id="3"/>
+     <elementSeq exposures="70-147" val="2" id="3"/>
     </column>
-    <column type="0" name="ATV-0AD4FB114EDCC5D8" displayOrder="0" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0AD4FB114EDCC5D8" display="false" displayOrder="0" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-69" val="1" id="4"/>
-     <elementSeq exposures="70-88" val="2" id="4"/>
+     <elementSeq exposures="70-147" val="2" id="4"/>
     </column>
-    <column type="0" name="ATV-0AD4FB114EDCC690" displayOrder="0" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0AD4FB114EDCC690" display="false" displayOrder="0" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-69" val="1" id="5"/>
      <elementSeq exposures="70-88" val="2" id="5"/>
     </column>
     <column type="0" name="ATV-0AD4FB114EDCC748" displayOrder="0" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-69" val="1" id="6"/>
-     <elementSeq exposures="70-88" val="2" id="6"/>
     </column>
     <column type="0" name="ATV-0AD4FB114EDCC8B8" displayOrder="0" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-69" val="1" id="8"/>
-     <elementSeq exposures="70-88" val="2" id="8"/>
     </column>
     <column type="0" name="ATV-0AD4FB114EDCC970" displayOrder="0" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-69" val="1" id="9"/>
-     <elementSeq exposures="70-88" val="2" id="9"/>
     </column>
-    <column type="0" name="ATV-0AD4FB114EDCCA28" displayOrder="0" width="100" anonymous="true" id="10">
+    <column type="0" name="ATV-0AD4FB114EDCCA28" display="false" displayOrder="0" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-69" val="1" id="10"/>
      <elementSeq exposures="70-88" val="2" id="10"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4078C50" displayOrder="0" width="100" anonymous="true" id="12">
+    <column type="0" name="ATV-0AD57A6CA4078C50" display="false" displayOrder="0" width="100" anonymous="true" id="12">
      <elementSeq exposures="1-69" val="1" id="12"/>
      <elementSeq exposures="70-88" val="2" id="12"/>
+     <elementSeq exposures="89-147" val="3" id="12"/>
+     <elementSeq exposures="148-151" val="4" id="12"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4078D6B" displayOrder="0" width="100" anonymous="true" id="13">
+    <column type="0" name="ATV-0AD57A6CA4078D6B" display="false" displayOrder="0" width="100" anonymous="true" id="13">
      <elementSeq exposures="1-69" val="1" id="13"/>
      <elementSeq exposures="70-88" val="2" id="13"/>
+     <elementSeq exposures="89-147" val="3" id="13"/>
+     <elementSeq exposures="148-151" val="4" id="13"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4078E5F" displayOrder="0" width="100" anonymous="true" id="14">
+    <column type="0" name="ATV-0AD57A6CA4078E5F" display="false" displayOrder="0" width="100" anonymous="true" id="14">
      <elementSeq exposures="1-69" val="1" id="14"/>
      <elementSeq exposures="70-88" val="2" id="14"/>
+     <elementSeq exposures="89-147" val="3" id="14"/>
+     <elementSeq exposures="148-151" val="4" id="14"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4078F53" displayOrder="0" width="100" anonymous="true" id="15">
+    <column type="0" name="ATV-0AD57A6CA4078F53" display="false" displayOrder="0" width="100" anonymous="true" id="15">
      <elementSeq exposures="1-69" val="1" id="15"/>
      <elementSeq exposures="70-88" val="2" id="15"/>
+     <elementSeq exposures="89-147" val="3" id="15"/>
+     <elementSeq exposures="148-151" val="4" id="15"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4079047" displayOrder="0" width="100" anonymous="true" id="16">
+    <column type="0" name="ATV-0AD57A6CA4079047" display="false" displayOrder="0" width="100" anonymous="true" id="16">
      <elementSeq exposures="1-69" val="1" id="16"/>
      <elementSeq exposures="70-88" val="2" id="16"/>
+     <elementSeq exposures="89-147" val="3" id="16"/>
+     <elementSeq exposures="148-151" val="4" id="16"/>
     </column>
     <column type="0" name="ATV-0AD57A6CA407913B" displayOrder="0" width="100" anonymous="true" id="17">
      <elementSeq exposures="1-69" val="1" id="17"/>
      <elementSeq exposures="70-88" val="2" id="17"/>
+     <elementSeq exposures="89-147" val="3" id="17"/>
+     <elementSeq exposures="148-151" val="4" id="17"/>
     </column>
-    <column type="0" name="PennyMouth" displayOrder="0" width="100" anonymous="true" id="18">
+    <column type="0" name="PennyMouth" display="false" displayOrder="0" width="100" anonymous="true" id="18">
      <elementSeq exposures="1-69" val="1" id="18"/>
      <elementSeq exposures="70-88" val="2" id="18"/>
+     <elementSeq exposures="89-147" val="3" id="18"/>
+     <elementSeq exposures="148-151" val="4" id="18"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA407A2D7" displayOrder="0" width="100" anonymous="true" id="19">
+    <column type="0" name="ATV-0AD57A6CA407A2D7" display="false" displayOrder="0" width="100" anonymous="true" id="19">
      <elementSeq exposures="1-69" val="1" id="19"/>
      <elementSeq exposures="70-88" val="2" id="19"/>
+     <elementSeq exposures="89-147" val="3" id="19"/>
+     <elementSeq exposures="148-151" val="4" id="19"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4083408" displayOrder="0" width="100" anonymous="true" id="20">
+    <column type="0" name="ATV-0AD57A6CA4083408" display="false" displayOrder="0" width="100" anonymous="true" id="20">
      <elementSeq exposures="1-69" val="1" id="20"/>
      <elementSeq exposures="70-88" val="2" id="20"/>
+     <elementSeq exposures="89-147" val="4" id="20"/>
+     <elementSeq exposures="148-151" val="5" id="20"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4097CE3" displayOrder="0" width="100" anonymous="true" id="21">
+    <column type="0" name="ATV-0AD57A6CA4097CE3" display="false" displayOrder="0" width="100" anonymous="true" id="21">
      <elementSeq exposures="1-69" val="1" id="21"/>
      <elementSeq exposures="70-88" val="2" id="21"/>
+     <elementSeq exposures="89-147" val="3" id="21"/>
+     <elementSeq exposures="148-151" val="4" id="21"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA4097F97" displayOrder="0" width="100" anonymous="true" id="22">
+    <column type="0" name="ATV-0AD57A6CA4097F97" display="false" displayOrder="0" width="100" anonymous="true" id="22">
      <elementSeq exposures="1-69" val="1" id="22"/>
      <elementSeq exposures="70-88" val="2" id="22"/>
+     <elementSeq exposures="89-147" val="3" id="22"/>
+     <elementSeq exposures="148-151" val="4" id="22"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA409806A" displayOrder="0" width="100" anonymous="true" id="23">
+    <column type="0" name="ATV-0AD57A6CA409806A" display="false" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="1-69" val="1" id="23"/>
      <elementSeq exposures="70-88" val="2" id="23"/>
+     <elementSeq exposures="89-147" val="3" id="23"/>
+     <elementSeq exposures="148-151" val="4" id="23"/>
     </column>
-    <column type="0" name="PennyNose" displayOrder="0" width="100" anonymous="true" id="24">
+    <column type="0" name="PennyNose" display="false" displayOrder="0" width="100" anonymous="true" id="24">
      <elementSeq exposures="1-69" val="1" id="24"/>
      <elementSeq exposures="70-88" val="2" id="24"/>
+     <elementSeq exposures="89-147" val="3" id="24"/>
+     <elementSeq exposures="148-151" val="4" id="24"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40BCB4B" displayOrder="0" width="100" anonymous="true" id="25">
+    <column type="0" name="ATV-0AD57A6CA40BCB4B" display="false" displayOrder="0" width="100" anonymous="true" id="25">
      <elementSeq exposures="1-69" val="1" id="25"/>
      <elementSeq exposures="70-88" val="2" id="25"/>
+     <elementSeq exposures="89-147" val="3" id="25"/>
+     <elementSeq exposures="148-151" val="4" id="25"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40BCC03" displayOrder="0" width="100" anonymous="true" id="26">
+    <column type="0" name="ATV-0AD57A6CA40BCC03" display="false" displayOrder="0" width="100" anonymous="true" id="26">
      <elementSeq exposures="1-69" val="1" id="26"/>
      <elementSeq exposures="70-88" val="2" id="26"/>
+     <elementSeq exposures="89-147" val="3" id="26"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C6369" displayOrder="0" width="100" anonymous="true" id="27">
+    <column type="0" name="ATV-0AD57A6CA40C6369" display="false" displayOrder="0" width="100" anonymous="true" id="27">
      <elementSeq exposures="1-69" val="1" id="27"/>
      <elementSeq exposures="70-88" val="2" id="27"/>
+     <elementSeq exposures="89-151" val="3" id="27"/>
     </column>
     <column type="0" name="ATV-0AD57A6CA40C643E" displayOrder="0" width="100" anonymous="true" id="28">
      <elementSeq exposures="1-69" val="1" id="28"/>
      <elementSeq exposures="70-88" val="2" id="28"/>
+     <elementSeq exposures="89-151" val="3" id="28"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C64F6" displayOrder="0" width="100" anonymous="true" id="29">
+    <column type="0" name="ATV-0AD57A6CA40C64F6" display="false" displayOrder="0" width="100" anonymous="true" id="29">
      <elementSeq exposures="1-69" val="1" id="29"/>
      <elementSeq exposures="70-88" val="2" id="29"/>
+     <elementSeq exposures="89-151" val="3" id="29"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C65AE" displayOrder="0" width="100" anonymous="true" id="30">
+    <column type="0" name="ATV-0AD57A6CA40C65AE" display="false" displayOrder="0" width="100" anonymous="true" id="30">
      <elementSeq exposures="1-69" val="1" id="30"/>
      <elementSeq exposures="70-88" val="2" id="30"/>
+     <elementSeq exposures="89-151" val="3" id="30"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C6666" displayOrder="0" width="100" anonymous="true" id="31">
+    <column type="0" name="ATV-0AD57A6CA40C6666" display="false" displayOrder="0" width="100" anonymous="true" id="31">
      <elementSeq exposures="1-69" val="1" id="31"/>
      <elementSeq exposures="70-88" val="2" id="31"/>
+     <elementSeq exposures="89-151" val="3" id="31"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C671E" displayOrder="0" width="100" anonymous="true" id="32">
+    <column type="0" name="ATV-0AD57A6CA40C671E" display="false" displayOrder="0" width="100" anonymous="true" id="32">
      <elementSeq exposures="1-69" val="1" id="32"/>
      <elementSeq exposures="70-88" val="2" id="32"/>
+     <elementSeq exposures="89-151" val="3" id="32"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C67D6" displayOrder="0" width="100" anonymous="true" id="33">
+    <column type="0" name="ATV-0AD57A6CA40C67D6" display="false" displayOrder="0" width="100" anonymous="true" id="33">
      <elementSeq exposures="1-69" val="1" id="33"/>
      <elementSeq exposures="70-88" val="2" id="33"/>
+     <elementSeq exposures="89-151" val="3" id="33"/>
     </column>
     <column type="0" name="ATV-0AD57A6CA40C688E" displayOrder="0" width="100" anonymous="true" id="34">
      <elementSeq exposures="1-69" val="1" id="34"/>
      <elementSeq exposures="70-88" val="2" id="34"/>
+     <elementSeq exposures="89-151" val="3" id="34"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C6946" displayOrder="0" width="100" anonymous="true" id="35">
+    <column type="0" name="ATV-0AD57A6CA40C6946" display="false" displayOrder="0" width="100" anonymous="true" id="35">
      <elementSeq exposures="1-69" val="1" id="35"/>
      <elementSeq exposures="70-88" val="2" id="35"/>
+     <elementSeq exposures="89-147" val="3" id="35"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C69FE" displayOrder="0" width="100" anonymous="true" id="36">
+    <column type="0" name="ATV-0AD57A6CA40C69FE" display="false" displayOrder="0" width="100" anonymous="true" id="36">
      <elementSeq exposures="1-69" val="1" id="36"/>
      <elementSeq exposures="70-88" val="2" id="36"/>
+     <elementSeq exposures="89-147" val="3" id="36"/>
     </column>
     <column type="0" name="ATV-0AD57A6CA40C6AB6" displayOrder="0" width="100" anonymous="true" id="37">
      <elementSeq exposures="1-69" val="1" id="37"/>
      <elementSeq exposures="70-88" val="2" id="37"/>
+     <elementSeq exposures="89-147" val="3" id="37"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40C6DA6" displayOrder="0" width="100" anonymous="true" id="38">
+    <column type="0" name="ATV-0AD57A6CA40C6DA6" display="false" displayOrder="0" width="100" anonymous="true" id="38">
      <elementSeq exposures="1-69" val="1" id="38"/>
      <elementSeq exposures="70-88" val="2" id="38"/>
+     <elementSeq exposures="89-151" val="3" id="38"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40E0ACB" displayOrder="0" width="100" anonymous="true" id="39">
+    <column type="0" name="ATV-0AD57A6CA40E0ACB" display="false" displayOrder="0" width="100" anonymous="true" id="39">
      <elementSeq exposures="1-69" val="1" id="39"/>
      <elementSeq exposures="70-88" val="2" id="39"/>
+     <elementSeq exposures="89-151" val="3" id="39"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40ED49C" displayOrder="0" width="100" anonymous="true" id="40">
+    <column type="0" name="ATV-0AD57A6CA40ED49C" display="false" displayOrder="0" width="100" anonymous="true" id="40">
      <elementSeq exposures="1-69" val="1" id="40"/>
      <elementSeq exposures="70-88" val="2" id="40"/>
+     <elementSeq exposures="89-151" val="3" id="40"/>
     </column>
     <column type="0" name="ATV-0AD57A6CA40F4455" displayOrder="0" width="100" anonymous="true" id="41">
      <elementSeq exposures="1-69" val="1" id="41"/>
      <elementSeq exposures="70-88" val="2" id="41"/>
+     <elementSeq exposures="89-151" val="3" id="41"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40F6EB5" displayOrder="0" width="100" anonymous="true" id="42">
+    <column type="0" name="ATV-0AD57A6CA40F6EB5" display="false" displayOrder="0" width="100" anonymous="true" id="42">
      <elementSeq exposures="1-69" val="1" id="42"/>
      <elementSeq exposures="70-88" val="2" id="42"/>
+     <elementSeq exposures="89-151" val="3" id="42"/>
     </column>
-    <column type="0" name="ATV-0AD57A6CA40FBD09" displayOrder="0" width="100" anonymous="true" id="43">
+    <column type="0" name="ATV-0AD57A6CA40FBD09" display="false" displayOrder="0" width="100" anonymous="true" id="43">
      <elementSeq exposures="1-69" val="1" id="43"/>
      <elementSeq exposures="70-88" val="2" id="43"/>
+     <elementSeq exposures="89-151" val="3" id="43"/>
     </column>
-    <column type="0" name="ATV-0AD54165B28093FA" displayOrder="0" width="100" anonymous="true" id="44">
+    <column type="0" name="ATV-0AD54165B28093FA" display="false" displayOrder="0" width="100" anonymous="true" id="44">
      <elementSeq exposures="1-69" val="1" id="44"/>
      <elementSeq exposures="70-88" val="2" id="44"/>
+     <elementSeq exposures="89-147" val="3" id="44"/>
     </column>
-    <column type="0" name="ATV-0AD54F065DF8B957" displayOrder="0" width="100" anonymous="true" id="56">
+    <column type="0" name="ATV-0AD54F065DF8B957" display="false" displayOrder="0" width="100" anonymous="true" id="56">
      <elementSeq exposures="1-69" val="1" id="56"/>
     </column>
     <column type="1" name="Harp_Music1" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
@@ -637,6 +736,11 @@
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
+    <column type="0" name="ATV-0AD859046D045203" displayOrder="0" width="100" anonymous="true" id="58">
+     <elementSeq exposures="89-147" val="1" id="58"/>
+     <elementSeq exposures="148-151" val="2" id="58"/>
+    </column>
+    <column type="0" name="ATV-0AD859046D045427" displayOrder="0" width="100" anonymous="true" id="59"/>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -646,7 +750,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-258,0,44" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-272,0,46" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -665,13 +769,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,45" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,47" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,46" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,48" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -704,7 +808,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerShoulders" pos="0,0,18" publishUnderTab="DeerShoulders">
+     <module type="READ" name="DeerShoulders" pos="0,0,20" publishUnderTab="DeerShoulders">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -816,7 +920,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Tree" pos="-56,-50,47" publishUnderTab="Drawing">
+     <module type="READ" name="Tree" pos="-56,-50,49" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -928,9 +1032,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="1" pos="0,0,43" publishUnderTab="1">
+     <module type="READ" name="1" pos="0,0,45" publishUnderTab="1">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1041,7 +1144,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Leaves" pos="0,0,42" publishUnderTab="Leaves">
+     <module type="READ" name="Leaves" pos="0,0,44" publishUnderTab="Leaves">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1153,7 +1256,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="FrontVines" pos="0,0,41" publishUnderTab="FrontVines">
+     <module type="READ" name="FrontVines" pos="0,0,43" publishUnderTab="FrontVines">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1265,7 +1368,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass2" pos="0,0,37" publishUnderTab="Grass2">
+     <module type="READ" name="Grass2" pos="0,0,39" publishUnderTab="Grass2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1377,7 +1480,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="GrassBladesFront" pos="0,0,39" publishUnderTab="GrassBladesFront">
+     <module type="READ" name="GrassBladesFront" pos="0,0,41" publishUnderTab="GrassBladesFront">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1489,7 +1592,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass1" pos="0,0,38" publishUnderTab="Grass1">
+     <module type="READ" name="Grass1" pos="0,0,40" publishUnderTab="Grass1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1601,7 +1704,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyEars" pos="0,0,33" publishUnderTab="PennyEars">
+     <module type="READ" name="PennyEars" pos="0,0,35" publishUnderTab="PennyEars">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1713,7 +1816,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHair" pos="0,0,35" publishUnderTab="PennyHair">
+     <module type="READ" name="PennyHair" pos="0,0,37" publishUnderTab="PennyHair">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1825,7 +1928,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairCurl" pos="0,0,34" publishUnderTab="PennyHairCurl">
+     <module type="READ" name="PennyHairCurl" pos="0,0,36" publishUnderTab="PennyHairCurl">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1937,7 +2040,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Penny_Arms" pos="0,0,28" publishUnderTab="Penny_Arms">
+     <module type="READ" name="Penny_Arms" pos="0,0,30" publishUnderTab="Penny_Arms">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2049,7 +2152,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyTail" pos="0,0,32" publishUnderTab="PennyTail">
+     <module type="READ" name="PennyTail" pos="0,0,34" publishUnderTab="PennyTail">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2161,7 +2264,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyBody" pos="0,0,31" publishUnderTab="PennyBody">
+     <module type="READ" name="PennyBody" pos="0,0,33" publishUnderTab="PennyBody">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2273,119 +2376,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairFront" pos="0,0,24" publishUnderTab="PennyHairFront">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="ATV-0AD57A6CA409806A">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <colorSpace val="sRGB"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="zoomIndependent"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-       <tileHorizontal val="false"/>
-       <tileVertical val="false"/>
-      </attrs>
-     </module>
-     <module type="READ" name="PennyHands" pos="0,0,30" publishUnderTab="PennyHands">
+     <module type="READ" name="PennyHands" pos="0,0,32" publishUnderTab="PennyHands">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2497,7 +2488,119 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyMouth" pos="-4,0,29" publishUnderTab="PennyFace">
+     <module type="READ" name="PennyHairFront" pos="0,0,26" publishUnderTab="PennyHairFront">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD57A6CA409806A">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PennyMouth" pos="-4,0,31" publishUnderTab="PennyFace">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2609,7 +2712,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHorns" pos="0,0,27" publishUnderTab="PennyHorns">
+     <module type="READ" name="PennyHorns" pos="0,0,29" publishUnderTab="PennyHorns">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2721,7 +2824,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHead" pos="0,0,26" publishUnderTab="PennyHead">
+     <module type="READ" name="PennyHead" pos="0,0,28" publishUnderTab="PennyHead">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2833,7 +2936,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyHairBack" pos="0,0,25" publishUnderTab="PennyHairBack">
+     <module type="READ" name="PennyHairBack" pos="0,0,27" publishUnderTab="PennyHairBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2945,7 +3048,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyNose" pos="9,0,23" publishUnderTab="PennyMouth_1">
+     <module type="READ" name="PennyNose" pos="9,0,25" publishUnderTab="PennyMouth_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3057,119 +3160,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PennyEyes" pos="0,0,22" publishUnderTab="PennyEyes">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="ATV-0AD57A6CA40BCB4B">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <colorSpace val="sRGB"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="zoomIndependent"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-       <tileHorizontal val="false"/>
-       <tileVertical val="false"/>
-      </attrs>
-     </module>
-     <module type="READ" name="PennyBrows" pos="0,0,21" publishUnderTab="PennyBrows">
+     <module type="READ" name="PennyBrows" pos="0,0,23" publishUnderTab="PennyBrows">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3281,7 +3272,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerBody" pos="0,0,20" publishUnderTab="DeerBody">
+     <module type="READ" name="DeerBody" pos="0,0,22" publishUnderTab="DeerBody">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3393,7 +3384,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyre" pos="0,0,19" publishUnderTab="DeerLyre">
+     <module type="READ" name="DeerLyre" pos="0,0,21" publishUnderTab="DeerLyre">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3505,7 +3496,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerArm" pos="0,0,17" publishUnderTab="DeerArm">
+     <module type="READ" name="DeerArm" pos="0,0,19" publishUnderTab="DeerArm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3617,7 +3608,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHead" pos="0,0,16" publishUnderTab="DeerHead">
+     <module type="READ" name="DeerHead" pos="0,0,18" publishUnderTab="DeerHead">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3729,7 +3720,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHair" pos="0,0,15" publishUnderTab="DeerHair">
+     <module type="READ" name="DeerHair" pos="0,0,17" publishUnderTab="DeerHair">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3841,7 +3832,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEars" pos="0,0,14" publishUnderTab="DeerEars">
+     <module type="READ" name="DeerEars" pos="0,0,16" publishUnderTab="DeerEars">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3953,7 +3944,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHorns" pos="0,0,13" publishUnderTab="DeerHorns">
+     <module type="READ" name="DeerHorns" pos="0,0,15" publishUnderTab="DeerHorns">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4065,7 +4056,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerMouth" pos="0,0,12" publishUnderTab="DeerMouth">
+     <module type="READ" name="DeerMouth" pos="0,0,14" publishUnderTab="DeerMouth">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4177,7 +4168,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerNose" pos="0,0,11" publishUnderTab="DeerNose">
+     <module type="READ" name="DeerNose" pos="0,0,13" publishUnderTab="DeerNose">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4289,7 +4280,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEyes" pos="0,0,10" publishUnderTab="DeerEyes">
+     <module type="READ" name="DeerEyes" pos="0,0,12" publishUnderTab="DeerEyes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4401,7 +4392,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyreLeaves" pos="0,0,9" publishUnderTab="DeerLyreLeaves">
+     <module type="READ" name="DeerLyreLeaves" pos="0,0,11" publishUnderTab="DeerLyreLeaves">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4513,7 +4504,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerLyreStrings" pos="0,0,8" publishUnderTab="DeerLyreStrings">
+     <module type="READ" name="DeerLyreStrings" pos="0,0,10" publishUnderTab="DeerLyreStrings">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4625,7 +4616,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHand" pos="0,0,7" publishUnderTab="DeerHand">
+     <module type="READ" name="DeerHand" pos="0,0,9" publishUnderTab="DeerHand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4737,7 +4728,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHairFront" pos="0,0,6" publishUnderTab="DeerHairFront">
+     <module type="READ" name="DeerHairFront" pos="0,0,8" publishUnderTab="DeerHairFront">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4849,7 +4840,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerHairBack" pos="0,0,5" publishUnderTab="DeerHairBack">
+     <module type="READ" name="DeerHairBack" pos="0,0,7" publishUnderTab="DeerHairBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4961,7 +4952,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerEarBack" pos="0,0,4" publishUnderTab="DeerEarBack">
+     <module type="READ" name="DeerEarBack" pos="0,0,6" publishUnderTab="DeerEarBack">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5073,7 +5064,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="DeerBrows" pos="0,0,3" publishUnderTab="DeerBrows">
+     <module type="READ" name="DeerBrows" pos="0,0,5" publishUnderTab="DeerBrows">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5185,7 +5176,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="BackVines" pos="0,0,40" publishUnderTab="BackVines">
+     <module type="READ" name="BackVines" pos="0,0,42" publishUnderTab="BackVines">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5297,7 +5288,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Grass3" pos="0,0,36" publishUnderTab="Grass3">
+     <module type="READ" name="Grass3" pos="0,0,38" publishUnderTab="Grass3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5409,7 +5400,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sky" pos="0,0,2" publishUnderTab="Sky">
+     <module type="READ" name="Sky" pos="0,0,4" publishUnderTab="Sky">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5521,7 +5512,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="2" pos="0,0,1" publishUnderTab="2">
+     <module type="READ" name="2" pos="0,0,3" publishUnderTab="2">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -5634,54 +5625,392 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="READ" name="PennyEyes" pos="0,0,24" publishUnderTab="PennyEyes">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD57A6CA40BCB4B">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PennyPupils" pos="0,0,2" publishUnderTab="PennyPupils">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD859046D045203">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PennyEyes-Whites" pos="0,0,1" publishUnderTab="PennyEyes-Whites">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD859046D045427">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="DeerShoulders" in="Composite" inport="21"/>
-     <link out="Tree" in="Composite" inport="20"/>
+     <link out="DeerShoulders" in="Composite" inport="23"/>
+     <link out="Tree" in="Composite" inport="22"/>
      <link out="1" in="Composite" inport="1"/>
-     <link out="Leaves" in="Composite" inport="40"/>
-     <link out="FrontVines" in="Composite" inport="39"/>
-     <link out="Grass2" in="Composite" inport="41"/>
-     <link out="GrassBladesFront" in="Composite" inport="43"/>
-     <link out="Grass1" in="Composite" inport="42"/>
+     <link out="Leaves" in="Composite" inport="42"/>
+     <link out="FrontVines" in="Composite" inport="41"/>
+     <link out="Grass2" in="Composite" inport="43"/>
+     <link out="GrassBladesFront" in="Composite" inport="45"/>
+     <link out="Grass1" in="Composite" inport="44"/>
      <link out="PennyEars" in="Composite" inport="7"/>
      <link out="PennyHair" in="Composite" inport="6"/>
      <link out="PennyHairCurl" in="Composite" inport="9"/>
      <link out="Penny_Arms" in="Composite" inport="11"/>
      <link out="PennyTail" in="Composite" inport="10"/>
      <link out="PennyBody" in="Composite" inport="12"/>
-     <link out="PennyHairFront" in="Composite" inport="15"/>
-     <link out="PennyHands" in="Composite" inport="14"/>
+     <link out="PennyHands" in="Composite" inport="15"/>
+     <link out="PennyHairFront" in="Composite" inport="14"/>
      <link out="PennyMouth" in="Composite" inport="16"/>
      <link out="PennyHorns" in="Composite" inport="5"/>
      <link out="PennyHead" in="Composite" inport="13"/>
      <link out="PennyHairBack" in="Composite" inport="8"/>
      <link out="PennyNose" in="Composite" inport="17"/>
-     <link out="PennyEyes" in="Composite" inport="18"/>
-     <link out="PennyBrows" in="Composite" inport="19"/>
-     <link out="DeerBody" in="Composite" inport="22"/>
-     <link out="DeerLyre" in="Composite" inport="23"/>
-     <link out="DeerArm" in="Composite" inport="26"/>
-     <link out="DeerHead" in="Composite" inport="29"/>
-     <link out="DeerHair" in="Composite" inport="31"/>
-     <link out="DeerEars" in="Composite" inport="32"/>
-     <link out="DeerHorns" in="Composite" inport="34"/>
-     <link out="DeerMouth" in="Composite" inport="35"/>
-     <link out="DeerNose" in="Composite" inport="36"/>
-     <link out="DeerEyes" in="Composite" inport="37"/>
-     <link out="DeerLyreLeaves" in="Composite" inport="25"/>
-     <link out="DeerLyreStrings" in="Composite" inport="24"/>
-     <link out="DeerHand" in="Composite" inport="27"/>
-     <link out="DeerHairFront" in="Composite" inport="33"/>
-     <link out="DeerHairBack" in="Composite" inport="28"/>
-     <link out="DeerEarBack" in="Composite" inport="30"/>
-     <link out="DeerBrows" in="Composite" inport="38"/>
+     <link out="PennyBrows" in="Composite" inport="21"/>
+     <link out="DeerBody" in="Composite" inport="24"/>
+     <link out="DeerLyre" in="Composite" inport="25"/>
+     <link out="DeerArm" in="Composite" inport="28"/>
+     <link out="DeerHead" in="Composite" inport="31"/>
+     <link out="DeerHair" in="Composite" inport="33"/>
+     <link out="DeerEars" in="Composite" inport="34"/>
+     <link out="DeerHorns" in="Composite" inport="36"/>
+     <link out="DeerMouth" in="Composite" inport="37"/>
+     <link out="DeerNose" in="Composite" inport="39"/>
+     <link out="DeerEyes" in="Composite" inport="38"/>
+     <link out="DeerLyreLeaves" in="Composite" inport="27"/>
+     <link out="DeerLyreStrings" in="Composite" inport="26"/>
+     <link out="DeerHand" in="Composite" inport="29"/>
+     <link out="DeerHairFront" in="Composite" inport="35"/>
+     <link out="DeerHairBack" in="Composite" inport="30"/>
+     <link out="DeerEarBack" in="Composite" inport="32"/>
+     <link out="DeerBrows" in="Composite" inport="40"/>
      <link out="BackVines" in="Composite" inport="4"/>
      <link out="Grass3" in="Composite" inport="3"/>
      <link out="Sky" in="Composite" inport="2"/>
      <link out="2" in="Composite" inport="0"/>
+     <link out="PennyEyes" in="Composite" inport="20"/>
+     <link out="PennyPupils" in="Composite" inport="19"/>
+     <link out="PennyEyes-Whites" in="Composite" inport="18"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>

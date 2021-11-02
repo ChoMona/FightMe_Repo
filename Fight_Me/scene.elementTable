@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Premium (HarmonyPremium.exe) version 21.0.0 build 17367 2021-09-01 10:26:03" version="2100" build="17367">
+<elements source="Harmony Premium (HarmonyPremium.exe) version 20.0.3 build 16743 2021-02-09 08:56:36" version="2003" build="16743">
  <element id="1" elementName="Tree" elementFolder="Tree" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="1" elementFolder="1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="Leaves" elementFolder="Leaves" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -46,4 +46,6 @@
  <element id="57" elementName="2" elementFolder="2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="58" elementName="PennyPupils" elementFolder="PennyPupils" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="59" elementName="PennyEyes-Whites" elementFolder="PennyEyes-Whites" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="60" elementName="PennyShoulder" elementFolder="PennyShoulder" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="61" elementName="DeerSweat" elementFolder="DeerSweat" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
